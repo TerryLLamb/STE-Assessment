@@ -1,0 +1,15 @@
+Username: TestUser82
+
+Password: ;:@z!?(JuWTV
+
+Authorization Code: VGVzdFVzZXI4Mjo7OkB6IT8oSnVXVFY=
+These credentials did not work
+
+
+Username: TestUser97
+
+Password: jJi#@(J@PcE]
+
+Auth:  VGVzdFVzZXI5NzpqSmkjQChKQFBjRV0=
+
+
